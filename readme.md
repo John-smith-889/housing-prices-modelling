@@ -12,8 +12,8 @@ Project contains Jupyter Notebook file named “housing_case.ipynb” with:
 * Choosen model optimization
 
 
-##### Data source: [data](https://www.kaggle.com/harlfoxem/housesalesprediction)
+Data source: [kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 
-If Github not render this notebook, try to open in this link:
+If Github does not render "housing_case.ipynb" notebook properly, try to open it in this link:
 [nbviewer](https://nbviewer.jupyter.org/github/John-smith-889/housing-prices-modelling/blob/master/housing_case.ipynb)
