@@ -34,5 +34,11 @@ Jupyter notebook file named “housing_case_2_cls.ipynb”, based on modified datase
 Data source: [kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 
-If Github does not render "housing_case.ipynb" notebook properly, try to open it in this link:
-[nbviewer](https://nbviewer.jupyter.org/github/John-smith-889/housing-prices-modelling/blob/master/housing_case.ipynb)
+If Github does not render notebooks properly, try to open them in nbviewer under links:
+[housing_case](https://nbviewer.jupyter.org/github/John-smith-889/housing-prices-modelling/blob/master/housing_case.ipynb)
+
+[housing_case_2_reg](https://nbviewer.jupyter.org/github/John-smith-889/housing-prices-modelling/blob/master/housing_case_2_reg.ipynb)
+
+[housing_case_2_cls](https://nbviewer.jupyter.org/github/John-smith-889/housing-prices-modelling/blob/master/housing_case_2_cls.ipynb)
+
+
