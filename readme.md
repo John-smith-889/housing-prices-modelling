@@ -37,6 +37,17 @@ differentiation if house's cost is below or above $1 mln. Main algorithm used in
 * Classification model evaluation
 * Choosen model optimization
 
+Jupyter notebook file named “housing_case_2_reg_MLP.ipynb” is based on modified dataset 'house.csv' as above. 
+Regression problem is solved in the notebook - prediction of houses' prices. 
+Main algorithm used in the notebook is Multilayer Perceptron (MLP), a kind of Artificial Neural Network. 
+Notebook contains:
+
+* Data exploration
+* Data preparation
+* Data modelling
+* Classification model evaluation
+* Choosen model optimization
+
 
 #### Data source:
 
